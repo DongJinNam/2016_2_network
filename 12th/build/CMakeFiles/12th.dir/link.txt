@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/12th.dir/syscpy.c.o CMakeFiles/12th.dir/dup.c.o CMakeFiles/12th.dir/sep_serv2.c.o CMakeFiles/12th.dir/stdcpy.c.o CMakeFiles/12th.dir/echo_client.c.o CMakeFiles/12th.dir/sep_clnt.c.o CMakeFiles/12th.dir/sep_serv.c.o CMakeFiles/12th.dir/desto.c.o CMakeFiles/12th.dir/echo_selectserv.c.o  -o 12th -rdynamic 

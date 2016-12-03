@@ -1,0 +1,14 @@
+12th Computer network lab.
+
+Chapter 12.
+1. IO Multiplexing
+2. select function understanding and implementating server
+
+Chapter 15.
+1. Standard Input/Output function (ex. pros and cons)
+2. How to use Standard Input/Output (based on socket)
+
+Chapter 16.
+1. Seperate from Input stream and Output stream
+
+
