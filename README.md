@@ -1,4 +1,3 @@
-# 2016_2_network
+# Computer Network(2016 2nd)
 
-all source in 2016 second semester computer network is included in this folder.
-NDJ's First commit source for lecture source
+컴퓨터 네트워크 실습 저장소
